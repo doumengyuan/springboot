@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="eclipseVersion" value="ECLIPSE_44" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1511922691378" />
+    <option name="importOrderConfigFilePath" value="E:/ideaprojects/best-practice/code_format/formatterCode.xml" />
+    <option name="importOrderFromFile" value="true" />
+    <option name="importOrdering" value="ECLIPSE_44" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJava" value="E:/ideaprojects/best-practice/code_format/formatterCode.xml" />
+    <option name="selectedJavaProfile" value="eclipse_for_idea" />
+    <option name="useOldEclipseJavaFormatter" value="true" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
